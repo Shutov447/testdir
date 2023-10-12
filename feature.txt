@@ -1,3 +1,1 @@
 feature text file
-
-этот файл был изменен в ветке new-feature
